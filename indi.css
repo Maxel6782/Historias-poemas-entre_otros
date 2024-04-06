@@ -1,0 +1,41 @@
+section,
+p {
+    font-size: 35px;
+    background-color: rgba(221, 160, 80, 0.863);
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+h1 {
+    color: aqua;
+    background-color: rgb(88, 14, 158);
+    font-style: italic;
+}
+
+h2 {
+    color: rgb(102, 187, 53);
+    background-color: rgb(88, 14, 158);
+    text-transform: inherit;
+    font-style: italic;
+}
+
+h3 {
+    color: rgb(53, 50, 236);
+    background-color: rgb(88, 14, 158);
+    text-transform: inherit;
+}
+
+.pepe {
+    background-color: rgb(27, 197, 112);
+    font-size: 20px;
+    font-style: italic;
+}
+
+.penumbra {
+    font-size: 29px;
+}
+
+th {
+    color: rgb(24, 230, 245);
+    background-color: rgb(25, 138, 44);
+}

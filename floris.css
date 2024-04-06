@@ -1,0 +1,19 @@
+p {
+    font-size: 30px;
+    font-style: italic;
+    background-color: chocolate;
+
+}
+
+h1 {
+    color: aqua;
+    background-color: rgb(99, 5, 175);
+    text-align: center;
+}
+
+a {
+    background-color: rgb(187, 3, 3);
+    font-size: 27px;
+    font-style: italic;
+    color: rgb(5, 233, 138);
+}

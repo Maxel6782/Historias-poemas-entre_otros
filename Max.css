@@ -1,0 +1,24 @@
+.nax p {
+    font-size: 30px;
+    font-style: italic;
+    background-color: rgb(216, 160, 55);
+}
+
+h1 {
+    font-style: italic;
+    background-color: rgb(144, 42, 240);
+    color: rgba(57, 243, 0, 0.897);
+}
+
+h2 {
+    font-style: italic;
+    background-color: rgb(144, 42, 240);
+    color: rgba(57, 243, 0, 0.897);
+}
+
+a {
+    background-color: rgb(187, 3, 3);
+    font-size: 27px;
+    font-style: italic;
+    color: rgb(5, 233, 138);
+}
